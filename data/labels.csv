@@ -1,0 +1,111 @@
+text,label
+"Ransomware gang encrypted hospital systems and demanded bitcoin payment",ransomware
+"New phishing campaign steals Microsoft 365 credentials via fake login page",phishing
+"Critical vulnerability CVE-2026-1001 allows remote code execution in VPN gateway",vulnerability
+"Malware loader spreads through malicious email attachments",malware
+"Cloud provider reports data breach exposing customer support records",data_breach
+"Attackers deploy ransomware note after encrypting file servers",ransomware
+"Spear phishing emails impersonate HR to steal employee credentials",phishing
+"Security advisory on CVE-2025-7755 in web server software",vulnerability
+"Banking trojan malware targets Android users through fake app",malware
+"Unauthorized database access led to customer data breach",data_breach
+"Ransom operation disrupted city council services and demanded payment",ransomware
+"Credential phishing kit bypasses multifactor prompts with proxy",phishing
+"Zero-day vulnerability exploited in edge firewall devices",vulnerability
+"Infostealer malware exfiltrates browser cookies and passwords",malware
+"Healthcare firm confirms breach of patient portal data",data_breach
+"Double extortion ransomware group leaks stolen files",ransomware
+"Voice phishing campaign targets finance staff with urgent requests",phishing
+"Patch released for critical CVE-2024-3344 in database engine",vulnerability
+"Worm malware propagates laterally across Windows domain",malware
+"Retailer disclosed payment card data breach after intrusion",data_breach
+"Ransomware actors claim attack on manufacturing plant",ransomware
+"Mass phishing wave uses fake delivery notifications",phishing
+"Actively exploited vulnerability impacts email appliance",vulnerability
+"Downloader malware installs credential stealer on endpoints",malware
+"Source code repository leak caused internal data breach",data_breach
+"Threat actor encrypts backups during ransomware incident",ransomware
+"SMS phishing messages mimic tax authority alerts",phishing
+"Security bulletin warns of privilege escalation CVE-2026-2222",vulnerability
+"Backdoor malware connects to command and control server",malware
+"University reports breach affecting alumni contact data",data_breach
+"Ransom note references decryption key purchase",ransomware
+"Business email compromise starts with phishing lure",phishing
+"Critical zero day in VPN client allows code execution",vulnerability
+"Malvertising campaign delivers remote access trojan malware",malware
+"Government contractor disclosed unauthorized access data breach",data_breach
+"Ransomware affiliates target law firms and legal documents",ransomware
+"OAuth phishing attack harvests cloud access tokens",phishing
+"Vulnerability in router firmware enables authentication bypass",vulnerability
+"Stealth malware persists through scheduled task creation",malware
+"Insider account misuse resulted in payroll data breach",data_breach
+"Encryption malware disables recovery services before deployment",ransomware
+"Phishing domain spoofs banking portal and captures OTP",phishing
+"CVE-2025-9090 impacts container runtime with escape risk",vulnerability
+"Botnet malware uses IoT devices for distributed attacks",malware
+"Customer records exposed in third-party vendor breach",data_breach
+"Ransomware attack halted logistics operations nationwide",ransomware
+"QR code phishing trick directs users to fake sign-in",phishing
+"Memory corruption vulnerability allows arbitrary code execution",vulnerability
+"Fileless malware abuses PowerShell for persistence",malware
+"Media company investigates data breach of subscriber accounts",data_breach
+"Ransom group threatens leak if payment not received",ransomware
+"Phishing emails masquerade as password expiration notices",phishing
+"Critical kernel vulnerability patched after active exploitation",vulnerability
+"Credential theft malware injects into browser processes",malware
+"Insurance firm confirms data breach after API abuse",data_breach
+"Ransomware incident encrypted virtual machine clusters",ransomware
+"Whaling phishing targets executives with legal pretext",phishing
+"CVE advisory issued for unmanaged SQL injection weakness",vulnerability
+"Modular malware framework downloads additional payloads",malware
+"Cloud storage bucket misconfiguration caused data breach",data_breach
+"Extortion ransomware operators publish countdown timer",ransomware
+"Social media phishing campaign steals account credentials",phishing
+"Critical deserialization vulnerability affects enterprise app",vulnerability
+"USB-delivered malware infects isolated industrial workstation",malware
+"Employee PII leak confirmed in third-party breach",data_breach
+"Ransomware actors use stolen VPN credentials for access",ransomware
+"Credential phishing targets education sector mailboxes",phishing
+"Authentication bypass vulnerability impacts identity provider",vulnerability
+"Spyware malware records keystrokes and screen captures",malware
+"Hospital network breach exposed appointment data",data_breach
+"Ransom campaign encrypts NAS devices and snapshots",ransomware
+"Phishing toolkit clones popular cloud login pages",phishing
+"Remote code execution vulnerability in backup platform",vulnerability
+"Dropper malware retrieves payload from compromised website",malware
+"Telecom provider reports breach of call detail records",data_breach
+"Ransomware operators exploit unpatched remote desktop service",ransomware
+"Invoice phishing messages carry malicious document links",phishing
+"Privilege escalation CVE affects Linux kernel subsystem",vulnerability
+"Banking malware intercepts one-time passcodes on mobile",malware
+"Travel platform disclosed breach exposing booking profiles",data_breach
+"Ransomware gang demands payment in cryptocurrency",ransomware
+"Phishing simulation bypass discovered in mail gateway",phishing
+"Zero day flaw in browser engine enables sandbox escape",vulnerability
+"Rootkit malware hides malicious drivers from detection",malware
+"Ecommerce breach exposed hashed customer passwords",data_breach
+"Ransomware incident disrupted municipal emergency systems",ransomware
+"Domain spoof phishing targets cloud administrators",phishing
+"Critical flaw in identity federation service allows takeover",vulnerability
+"Loader malware abuses signed binaries to evade antivirus",malware
+"Breach notification sent after unauthorized S3 bucket access",data_breach
+"Ransomware attack encrypted shared drives across offices",ransomware
+"Phishing campaign uses fake MFA reset workflow",phishing
+"Vulnerability in SSL library permits denial of service",vulnerability
+"Stealer malware exfiltrates cryptocurrency wallet keys",malware
+"Public sector agency confirms sensitive document breach",data_breach
+"Ransom affiliates steal data before encryption deployment",ransomware
+"Targeted phishing compromises contractor email account",phishing
+"Actively exploited CVE in web framework requires urgent patch",vulnerability
+"Remote access malware beaconing to suspicious host",malware
+"Data breach exposed internal tickets and attachments",data_breach
+"Ransomware crew disables endpoint protection services",ransomware
+"Advanced phishing lure imitates single sign-on portal",phishing
+"Critical vulnerability in network appliance allows takeover",vulnerability
+"Malware payload encoded in macro-enabled spreadsheet",malware
+"Unauthorized export of user profiles led to data breach",data_breach
+"Ransomware note left on encrypted database servers",ransomware
+"Phishing links delivered through compromised marketing platform",phishing
+"Security update fixes CVE in authentication module",vulnerability
+"Banking malware campaign targets online payment sessions",malware
+"Partner integration incident triggered customer data breach",data_breach
