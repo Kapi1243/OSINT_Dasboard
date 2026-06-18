@@ -91,9 +91,3 @@ streamlit run app/streamlit_app.py
 $env:PYTHONPATH = "src"
 python scripts/run_scheduler.py
 ```
-
-## Notes for interviews
-
-- This implementation demonstrates production traits: deduplication, scheduled jobs, structured storage, explainability, auditability, and human review workflows.
-- Source credibility is weighted explicitly in scoring to avoid over-amplifying lower-trust feeds.
-- Bias monitoring is measurable through false positive rate trend per feed.
